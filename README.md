@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VanTrung
 - 👀 I’m interested in Coding 
-- 🌱 I’m using framwork: Visual Studio Code, C#, C++, Netneans, JQuery, Bootstrap,.....
+- 🌱 I’m using framework: Visual Studio Code, C#, C++, Netneans, JQuery, Bootstrap,.....
 - 💞️ I’m looking to collaborate on Some Company interested in me
 - 📫 Reach me with: https://www.facebook.com/vantrun0307/
 
